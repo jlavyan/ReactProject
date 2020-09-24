@@ -1,4 +1,4 @@
-# Vitals app - *React Native*
+# ReactProject app - *React Native*
 
 Drawer, Stacks and tabs navigators implemented in a simple 2 screen. Using **React navigator 5**, **React Native 0.63**, **Redux** and **Redux Thunk**
 
