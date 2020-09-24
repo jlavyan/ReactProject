@@ -29,5 +29,4 @@ iOS:
 $ npx react-native run-ios
 ``
 
-:)
 
